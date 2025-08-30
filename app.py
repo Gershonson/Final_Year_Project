@@ -45,8 +45,8 @@ st.set_page_config(
 # -----------------------------
 # Custom CSS - Force Light Theme & Professional Styling
 # -----------------------------
-logo1_src = _image_to_data_uri("images/logo1.png", mime="image/png")
-logo2_src = _image_to_data_uri("images/logo2.png", mime="image/png")
+logo1_src = _image_to_data_uri("logo1.png", mime="image/png")
+logo2_src = _image_to_data_uri("logo2.png", mime="image/png")
 
 st.markdown(
     """
